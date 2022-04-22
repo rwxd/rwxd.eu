@@ -18,10 +18,6 @@ enableRobotsTXT = true
     url = "https://github.com/rwxd"
 
   [[params.social]]
-    name = "email"
-    url = "mailto:rwxd@pm.me"
-
-  [[params.social]]
     name = "wiki"
     url = "https://wiki.rwxd.eu/"
 
