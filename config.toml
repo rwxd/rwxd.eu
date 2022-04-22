@@ -1,0 +1,4 @@
+baseURL = 'https://rwxd.eu/'
+languageCode = 'en-us'
+title = 'rwxd'
+theme = 'hello-friend-ng'
